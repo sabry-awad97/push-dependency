@@ -1,0 +1,18 @@
+{
+  "name": "add-dependency",
+  "version": "1.0.0",
+  "description": "Add dependency",
+  "scripts": {
+    "test": ""
+  },
+  "license": "MIT",
+  "dependencies": {
+    "npm-run": "^5.0.1",
+    "semver": "^7.3.7"
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.14",
+    "@types/npm-run": "^5.0.0",
+    "@types/semver": "^7.3.12"
+  }
+}
